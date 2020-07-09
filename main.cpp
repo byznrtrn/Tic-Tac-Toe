@@ -115,8 +115,6 @@ int checkwin()
 }
 
 
-
-
 void board()
 {
     system("cls");
